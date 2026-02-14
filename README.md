@@ -6,8 +6,8 @@
 
 ## About This Project
 
-This is a **personal pet project** built to demonstrate backend and full-stack development skills using **Python** and **Flask**.
-It is **not intended to be installed or deployed** as-is.
+This is a personal pet project built to demonstrate backend and full-stack development skills using Python and Flask.
+It is not intended to be installed or deployed as-is.
 Instead, the repository serves as a code sample showing my ability to design and implement:
 
 * User systems with email verification
@@ -30,9 +30,9 @@ Instead, the repository serves as a code sample showing my ability to design and
 
 ### Article Submission & Review
 
-* Upload articles as **PDF** or **DOCX**
+* Upload articles as PDF or DOCX
 * DOCX files are automatically converted to PDF
-* Articles enter an **admin review queue**
+* Articles enter an admin review queue
 * Admins approve or reject articles before publication
 
 ### Article Feed
@@ -64,8 +64,8 @@ Authors can view statistics for each article:
 
 ## Tech Stack
 
-* **Python + Flask**
-* **Flask-Mail** for email confirmations
-* **Flask-Admin** for admin moderation workflow
-* **PyPDF2 & docx2pdf** for PDF conversion
-* **HTML/CSS/JS** for frontend
+* Python + Flask
+* Flask-Mail for email confirmations
+* Flask-Admin for admin moderation workflow
+* PyPDF2 & docx2pdf for PDF conversion
+* HTML/CSS/JS for frontend
